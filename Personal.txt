@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Manas aditya
+=======
+Aditya
+>>>>>>> 68c331bb94f4020add7b91c0aa80a81a0c1a5965
 912310000
